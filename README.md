@@ -1,24 +1,17 @@
 # 🚀 Gantengs - AI IMAGE UPSCALER
 
 ```text
-                                                                                
-                                                                      
-                                                                      
-   ____                                                               
-  6MMMMb/                                                             
- 8P    YM                     /                                       
-6M      Y    ___   ___  __   /M      ____  ___  __     __      ____   
-MM         6MMMMb  `MM 6MMb /MMMMM  6MMMMb `MM 6MMb   6MMbMMM 6MMMMb\ 
-MM        8M'  `Mb  MMM9 `Mb MM    6M'  `Mb MMM9 `Mb 6M'`Mb  MM'    ` 
-MM     ___    ,oMM  MM'   MM MM    MM    MM MM'   MM MM  MM  YM.      
-MM     `M',6MM9'MM  MM    MM MM    MMMMMMMM MM    MM YM.,M9   YMMMMb  
-YM      M MM'   MM  MM    MM MM    MM       MM    MM  YMM9        `Mb 
- 8b    d9 MM.  ,MM  MM    MM YM.  ,YM    d9 MM    MM (M      L    ,MM 
-  YMMMM9  `YMMM9'Yb_MM_  _MM_ YMMM9 YMMMM9 _MM_  _MM_ YMMMMb.MYMMMM9  
-                                                     6M    Yb         
-                                                     YM.   d9         
-                                                      YMMMM9          
-                                                                                
+                                                                          
+                                                                          
+  .g8"""bgd                      mm                                       
+.dP'     `M                      MM                                       
+dM'       `  ,6"Yb.  `7MMpMMMb.mmMMmm .gP"Ya `7MMpMMMb.  .P"Ybmmm ,pP"Ybd 
+MM          8)   MM    MM    MM  MM  ,M'   Yb  MM    MM :MI  I8   8I   `" 
+MM.    `7MMF',pm9MM    MM    MM  MM  8M""""""  MM    MM  WmmmP"   `YMMMa. 
+`Mb.     MM 8M   MM    MM    MM  MM  YM.    ,  MM    MM 8M        L.   I8 
+  `"bmmmdPY `Moo9^Yo..JMML  JMML.`Mbmo`Mbmmd'.JMML  JMML.YMMMMMb  M9mmmP' 
+                                                        6'     dP         
+                                                        Ybmmmd'
                                                                                        
 ===========================================================
 
