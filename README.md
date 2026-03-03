@@ -55,12 +55,6 @@ akan bisa menemukan mesin AI-nya.
 4. Klik tombol hijau "START UPSCALE".
 5. Setelah 100%, gunakan tombol "Bandingkan" untuk melihat 
    hasil Before vs After secara interaktif.
-
-<div align="center">
-  <video src="https://raw.githubusercontent.com/Mikhayl-05/Gantengs/main/asset/tutor.mp4" width="400" controls muted autoplay loop>
-  </video>
-</div>
-
 -----------------------------------------------------------
 📝 KONTAK & CREDIT
 -----------------------------------------------------------
