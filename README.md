@@ -58,7 +58,6 @@ akan bisa menemukan mesin AI-nya.
 
 <div align="center">
   <video src="https://raw.githubusercontent.com/Mikhayl-05/Gantengs/main/asset/tutor.mp4" width="400" controls muted autoplay loop>
-    Your browser does not support the video tag.
   </video>
 </div>
 
